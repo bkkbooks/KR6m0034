@@ -27,12 +27,12 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6m0034_000.yaml, hash: 'sha256:a38901dedd4cf335a09d5ab740f564176927c81529225d91cbf604ec6484d6d3'}
+  - {seq: 0, filename: KR6m0034_000.yaml, hash: 'sha256:ce0161e6e88600e6e067e47854408a5af1105a1e225a60a0b234085af1113af1'}
   - {seq: 1, filename: KR6m0034_001.yaml, hash: 'sha256:5e2311cb69c83ad7601760ad2f041a310f24bf7cf0ac9cdc666b30baac9af2e2'}
   - {seq: 2, filename: KR6m0034_002.yaml, hash: 'sha256:581b0f1ed30647f429e742e4b39c6ebe4ffc1fa133ea8eee530a9256550a4e84'}
   - {seq: 3, filename: KR6m0034_003.yaml, hash: 'sha256:1f93b67bfd744bbdd9f594a46c422581eda851caf51f1d614961cdca55468d67'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6m0034_000.markers.yaml, hash: 'sha256:c30af531194870b196c77b883f7a40e526a9764e5abe3cb783bbe0a15de61d74'}
+  - {seq: 0, role: markers, filename: assets/KR6m0034_000.markers.yaml, hash: 'sha256:62b486fac8e500764da94f321617b4913d3dc80cdaf272fd9c8a229c52099400'}
   - {seq: 1, role: markers, filename: assets/KR6m0034_001.markers.yaml, hash: 'sha256:bc7d808e649b15cb2371ec8419aaa12dfd9c61e341689563a72dde53d9395a9d'}
   - {seq: 2, role: markers, filename: assets/KR6m0034_002.markers.yaml, hash: 'sha256:7bf174434454aa943784a6265fc912e20b6b6d929dbec34f293a6484189ddf15'}
   - {seq: 3, role: markers, filename: assets/KR6m0034_003.markers.yaml, hash: 'sha256:f2d1095874c32edda61ca4677d7fcf6a8af1d6d4582bf36b409e47cd95ab73fa'}
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6m0034_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 補刻二諦章敘
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6m0034_T_000-mulu-2
     span:
-    - front
+    - body
     - 386
     - 386
   label: 鐫二諦章敘
@@ -87,7 +87,7 @@ table_of_contents:
   label: 二諦義卷下
   type: juan
   level: 1
-hash: sha256:e7a62ace4f60af4a85bfadfd3668e83dfc91f795973ef29757c57b98fd7a19b9
+hash: sha256:39b2f4f07e7c5f2f04aef05f424b0bf85c2e884f6d70f95df8f73a7bcd1c8dff
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
